@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Hongyi, a third-year master student in Artificail Intelligence at Xiamen University. I'm lucky to be supervised by [Prof. Liang Xiao](https://lxiao.xmu.edu.cn/) . Previously, I received my Bachelor degree in computer science from Fujian Normal University and was honored as an Outstanding Graduate in 2019. I plan to start my Ph.D. studies at Department of Electrical and Computer Engineering, Western University, Canada in Fall 2026, supervised by [Prof. Xianbin Wang](https://www.eng.uwo.ca/electrical/faculty/wang_x/index.html). My research interests include AI for communications, wireless security and edge computing, aiming to intelligently orchestrate the dynamic resources while meeting the complex needs of connected systems in terms of security, reliability and performance. This is my [CV](https://yonghuyou.github.io/hychen.github.io/resume_Full.pdf). 
+Hello! I'm Hongyi, a third-year master student in Artificail Intelligence at Xiamen University. I'm lucky to be supervised by [Prof. Liang Xiao](https://lxiao.xmu.edu.cn/) . Previously, I received my Bachelor degree in computer science from Fujian Normal University and was honored as an Outstanding Graduate in 2019. I plan to start my Ph.D. studies at Department of Electrical and Computer Engineering, Western University, Canada in Fall 2026, supervised by [Prof. Xianbin Wang](https://www.eng.uwo.ca/electrical/faculty/wang_x/index.html). My research interests include AI for communications, wireless security and edge computing, aiming to intelligently orchestrate the dynamic resources while meeting the complex needs of connected systems in terms of security, reliability and performance. <br>
+I’m always looking for opportunities to collaborate! If you are interested in working or discussing with me, please feel free to drop me an email.
 
 News
 ======
 **2026.02** One paper has been accepted by IEEE Wireless Communications!<br>
+<br>
 **2025.10** Awarded Graduate National Scholarship!<br>
+<br>
 **2025.05** One paper has been accepted by IEEE Transactions on Mobile Computing!<br>
+<br>
 **2024.12** One paper has been accepted by IEEE Transactions on Vehicular Technology!<br>
+<br>
 **2024.11** One paper has been accepted by IEEE Transactions on Wireless Communications!<br>
+<br>
 **2024.08** One paper has been accepted by IEEE GLOBECOM 2024!<br>
