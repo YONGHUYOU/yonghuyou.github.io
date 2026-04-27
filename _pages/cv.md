@@ -12,13 +12,19 @@ redirect_from:
 Education
 ======
 
-* **Ph.D** (2026.09-2030.06, expected), Department of Electrical and Computer Engineering, Western University, Supervisor: Prof. Xianbin Wang (IEEE Fellow)
-* **M.S.** (2023.09-2026.06), Institute of Artificial Intelligence, Xiamen University, Supervisor: Prof. Liang Xiao (IEEE Fellow)
+* **Ph.D.** (2026.09-2030.06, expected), Department of Electrical and Computer Engineering, Western University, Supervisor: Prof. Xianbin Wang (Fellow of the Canadian Academy of Engineering, Fellow of IEEE)
+* **M.S.** (2023.09-2026.06), Institute of Artificial Intelligence, Xiamen University, Supervisor: Prof. Liang Xiao (Fellow of IEEE)
 * **B.S.** (2019.09-2023.06), Department of Computer Science, Fujian Normal University
 
-Honors and awards
+Selected Honors and awards
 ======
-
+* National Scholarship, 2025.10
+* Ge Jiashu University-level SCholarship, 2025.03
+* National First Prize, China Postgraduate Mathematical Contest in Modeling, 2023.11
+* Outstanding Graduate Award, 2023.06
+* Finalist Winner, International Mathematical Contest in Modeling (MCM), Finalist Winner, 2022.05
+* Second Prize, Lanqiao Cup Programming Contest, 2022.04
+* Second Prize, Chinese Mathematics Competitions, 2021.11
   
 Academic service and leadership
 ======
@@ -30,4 +36,4 @@ Academic service and leadership
 
 Teaching
 ======
-* Undergraduate thesis, Spring 2024: Teaching Assistant
+* Teaching Assistant, Undergraduate Thesis (Graduation Project), School of Informatics, Xiamen University, Spring 2024
