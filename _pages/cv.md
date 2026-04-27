@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-This is my detailed [CV](https://yonghuyou.github.io/hychen.github.io/resume_Full.pdf).
+This is my detailed [CV](https://yonghuyou.github.io/resume_Full.pdf).
 <br>
 <br>
 
