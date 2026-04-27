@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This is my detailed [CV](https://yonghuyou.github.io/hychen.github.io/resume_Full.pdf).
+<br>
 Education
 ======
 
