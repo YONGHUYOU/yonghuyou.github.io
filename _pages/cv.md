@@ -21,7 +21,7 @@ Supervisor: Prof. Liang Xiao (Fellow of IEEE)
 Selected Honors and awards
 ======
 * National Scholarship, 2025.10
-* Ge Jiashu University-level SCholarship, 2025.03
+* Ge Jiashu University-level Scholarship, 2025.03
 * National First Prize, China Postgraduate Mathematical Contest in Modeling, 2023.11
 * Outstanding Graduate Award, 2023.06
 * Finalist Winner, International Mathematical Contest in Modeling (MCM), Finalist Winner, 2022.05
