@@ -6,11 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
 This is my detailed [CV](https://yonghuyou.github.io/hychen.github.io/resume_Full.pdf).
 <br>
+{% include base_path %}
+
 Education
 ======
 
