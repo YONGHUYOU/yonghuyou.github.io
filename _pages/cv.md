@@ -8,6 +8,7 @@ redirect_from:
 ---
 This is my detailed [CV](https://yonghuyou.github.io/hychen.github.io/resume_Full.pdf).
 <br>
+<br>
 
 Education
 ======
@@ -17,8 +18,9 @@ Supervisor: [Prof. Xianbin Wang](https://www.eng.uwo.ca/electrical/faculty/wang_
 * **M.S.** (2023.09-2026.06), Institute of Artificial Intelligence, Xiamen University<br>
 Supervisor: [Prof. Liang Xiao](https://lxiao.xmu.edu.cn/) (Fellow of IEEE)
 * **B.S.** (2019.09-2023.06), Department of Computer Science, Fujian Normal University
+<br>
 
-Selected Honors and awards
+Selected honors and awards
 ======
 * National Scholarship, 2025.10
 * Ge Jiashu University-level Scholarship, 2025.03
@@ -27,7 +29,8 @@ Selected Honors and awards
 * Finalist Winner, International Mathematical Contest in Modeling (MCM), Finalist Winner, 2022.05
 * Second Prize, Lanqiao Cup Programming Contest, 2022.04
 * Second Prize, Chinese Mathematics Competitions, 2021.11
-  
+  <br>
+
 Academic service and leadership
 ======
 * Graduate student member of IEEE
