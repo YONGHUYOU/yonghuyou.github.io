@@ -13,14 +13,11 @@ I’m always looking for opportunities to collaborate! If you are interested in 
 
 News
 ======
-**2026.02** One paper has been accepted by IEEE Wireless Communications!<br>
-<br>
-**2025.10** Awarded Graduate National Scholarship!<br>
-<br>
-**2025.05** One paper has been accepted by IEEE Transactions on Mobile Computing!<br>
-<br>
-**2024.12** One paper has been accepted by IEEE Transactions on Vehicular Technology!<br>
-<br>
-**2024.11** One paper has been accepted by IEEE Transactions on Wireless Communications!<br>
-<br>
-**2024.08** One paper has been accepted by IEEE GLOBECOM 2024!<br>
+<ul style="margin: 0; padding-left: 20px;">
+  <li>**2026.02** One paper has been accepted by IEEE Wireless Communications!</li>
+  <li>**2025.10** Awarded Graduate National Scholarship!</li>
+  <li>**2025.05** One paper has been accepted by IEEE Transactions on Mobile Computing!</li>
+  <li>**2024.12** One paper has been accepted by IEEE Transactions on Vehicular Technology!</li>
+  <li>**2024.11** One paper has been accepted by IEEE Transactions on Wireless Communications!</li>
+  <li>**2024.08** One paper has been accepted by IEEE GLOBECOM 2024!</li>
+</ul>
