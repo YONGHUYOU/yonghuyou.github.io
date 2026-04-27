@@ -13,9 +13,9 @@ Education
 ======
 
 * **Ph.D.** (2026.09-2030.06, expected), Department of Electrical and Computer Engineering, Western University<br>
-Supervisor: Prof. Xianbin Wang (Fellow of the Canadian Academy of Engineering, Fellow of IEEE)
+Supervisor: [Prof. Xianbin Wang](https://www.eng.uwo.ca/electrical/faculty/wang_x/index.html) (Fellow of the Canadian Academy of Engineering, Fellow of IEEE)
 * **M.S.** (2023.09-2026.06), Institute of Artificial Intelligence, Xiamen University<br>
-Supervisor: Prof. Liang Xiao (Fellow of IEEE)
+Supervisor: [Prof. Liang Xiao](https://lxiao.xmu.edu.cn/)(Fellow of IEEE)
 * **B.S.** (2019.09-2023.06), Department of Computer Science, Fujian Normal University
 
 Selected Honors and awards
