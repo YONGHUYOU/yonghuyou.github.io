@@ -12,9 +12,9 @@ You can find all my papers by visiting my [Google Scholar profile](https://schol
 <!-- *  \[<b><font color=blue >TIFS</font></b>] Security Verification via Spatial-Temporal Consistency for Collaborative Vehicular Perception Against Selfish Attacks
   <br> **H. Chen**, Z. Lin, L. Xiao, and X. Wang
   <br><i>IEEE Transactions on Information Forensics and Security</i>, Under Review. -->
-*  \[<b><font color=blue >TMC</font></b>] Task-Aware Collaborative LLM Inference for Wireless Applications Against Jamming Attacks
+<!-- *  \[<b><font color=blue >TMC</font></b>] Task-Aware Collaborative LLM Inference for Wireless Applications Against Jamming Attacks
   <br> Z. Lin, L. Xiao, **H. Chen**, X. Xu, and J. Li
-  <br><i>IEEE Transactions on Mobile Computing</i>, Major Revision.
+  <br><i>IEEE Transactions on Mobile Computing</i>, Major Revision. -->
 *  \[<b><font color=blue >WCM</font></b>] Collaborative Vehicular Perception Against Adversarial Attacks: Overview, Challenges and Potential Solutions
   <br>Z. Lin, L. Xiao, **H. Chen**, Z. Lv, and R. Zhao
   <br><i>IEEE Wireless Communications</i>, 2026.
