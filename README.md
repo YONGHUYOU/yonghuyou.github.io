@@ -1,1 +1,1 @@
-The academic homepage of Hongyi Chen
+**The academic homepage of Hongyi Chen**
