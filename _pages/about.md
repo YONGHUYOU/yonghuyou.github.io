@@ -14,6 +14,7 @@ Hello! I'm Hongyi, an incoming Ph.D. student in Electrical and Computer Engineer
 News
 ======
 <ul style="margin: 0; padding-left: 20px;">
+  <li><b>2026.06</b> Graduated from Xiamen University and was honored as an Outstanding Graduate and an Excellent Merit Student!</li>
   <li><b>2026.02</b> One paper has been accepted by IEEE Wireless Communications!</li>
   <li><b>2025.10</b> Awarded Graduate National Scholarship!</li>
   <li><b>2025.05</b> One paper has been accepted by IEEE Transactions on Mobile Computing!</li>
