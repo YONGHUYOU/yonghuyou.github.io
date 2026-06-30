@@ -17,16 +17,18 @@ Education
 Supervisor: [Prof. Xianbin Wang](https://www.eng.uwo.ca/electrical/faculty/wang_x/index.html) (Fellow of the Canadian Academy of Engineering, Fellow of IEEE)
 * **M.S.** (2023.09-2026.06), Institute of Artificial Intelligence, Xiamen University<br>
 Supervisor: [Prof. Liang Xiao](https://lxiao.xmu.edu.cn/) (Fellow of IEEE)
-* **B.S.** (2019.09-2023.06), Department of Computer Science, Fujian Normal University
+* **B.S.** (2019.09-2023.06), Department of Computer Science and Technology, Fujian Normal University
 <br>
 
 Selected honors and awards
 ======
+* Outstanding Graduate Award, 2026.06
+* Excellent Merit Student Award, 2026.06
 * National Scholarship, 2025.10
 * Ge Jiashu University-level Scholarship, 2025.03
 * National First Prize, China Postgraduate Mathematical Contest in Modeling, 2023.11
 * Outstanding Graduate Award, 2023.06
-* Finalist Winner, International Mathematical Contest in Modeling (MCM), Finalist Winner, 2022.05
+* Finalist Winner, International Mathematical Contest in Modeling (MCM), 2022.05
 * Second Prize, Lanqiao Cup Programming Contest, 2022.04
 * Second Prize, Chinese Mathematics Competitions, 2021.11
   <br>
