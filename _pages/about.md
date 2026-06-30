@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hello! I'm Hongyi, an incoming Ph.D. student in Electrical and Computer Engineering at Western University, supervised by [Prof. Xianbin Wang](https://www.eng.uwo.ca/electrical/faculty/wang_x/index.html). Prior to this, I received my master’s degree in Artificial Intelligence from Xiamen University, where I was honored as an Outstanding Graduate under the supervision of [Prof. Liang Xiao](https://lxiao.xmu.edu.cn/). My research interests include AI for communications, wireless security and trusted computing, aiming to intelligently orchestrate the dynamic resources while meeting the complex needs of connected systems in terms of security, reliability and performance. <br>
-**🤝 I’m always looking for opportunities to collaborate! If you are interested in working or discussing with me, please feel free to drop me an email.**
+**🤝 I’m always looking for opportunities to collaborate! If you are interested in working or chatting with me, please feel free to drop me an email.**
 
 News
 ======
